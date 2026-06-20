@@ -31,3 +31,6 @@ nav {
     position: sticky;
     top: 0;
 }
+.card {
+    transition: 0.3s;
+}
